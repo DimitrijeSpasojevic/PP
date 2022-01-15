@@ -1,0 +1,13 @@
+main(){
+    my_y:bool;
+    x,y:int;
+    x=345;
+    y=523;
+    my_y = x>y;
+    my_y = x<y;
+    my_y = x>=y;
+    my_y = x<=y;
+    my_y = x==y;
+    read(my_y);
+
+}

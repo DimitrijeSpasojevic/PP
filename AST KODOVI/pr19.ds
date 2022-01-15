@@ -1,0 +1,7 @@
+main(){
+    my_y,x,y:bool;
+    x=TRUE;
+    y=FALSE;
+    my_y = x>y;
+    read(my_y);
+}

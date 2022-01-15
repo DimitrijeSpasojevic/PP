@@ -1,0 +1,10 @@
+main(){
+    x:real;
+    y:bool;
+    y=TRUE;
+    x=.5E-734;
+    read(x);
+    do
+        write(x);
+    while 5
+}

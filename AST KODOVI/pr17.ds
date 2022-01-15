@@ -1,0 +1,20 @@
+main(){
+    x,a,b:int;
+    char_x1,char_x2,char_x3:char;
+    bool_y,bool_y2:bool;
+    bool_y=FALSE;
+    bool_y2=FALSE;
+    --a=3;--
+    b=4;
+    x='a';
+    char_x1='a';
+    char_x2='b';
+    char_x3 = char_x1 - char_x2;
+    do
+      do
+        write(x);
+      while (bool_y2)
+    while (bool_y)
+    read(char_x3);
+    write(b+a);
+}

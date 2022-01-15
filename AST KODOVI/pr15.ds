@@ -1,0 +1,10 @@
+main(){
+    x:int;
+    x=6;
+    read(x);
+    {
+       y:int;
+       y=7;
+       read(y);
+    }
+}

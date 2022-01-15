@@ -1,0 +1,24 @@
+main(){
+    x,a,b:int;
+    x1,x2,x3:char;
+    y,y2:bool;
+    y=TRUE;
+    y2=FALSE;
+    a=$3A;
+    b=$FF;
+    x1='a';
+    x2='b';
+    x = a+b;
+    x = a-b;
+    x = a*b;
+    x = a/b;
+    x3 = x1 - x2;
+    do{
+      var_1:int;
+      var_1 = x*3;
+      do
+        write(var_1);
+      while (y2)
+    }while (y)
+    read(x3);
+}

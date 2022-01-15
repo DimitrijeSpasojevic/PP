@@ -1,0 +1,11 @@
+main(){
+    x:int;
+    a_prom,b_prom:bool;
+    a_prom=TRUE;
+    b_prom=TRUE;
+    x=5;
+    x=141;
+    read(x);
+    write(35);
+    write(a_prom||b_prom);
+}

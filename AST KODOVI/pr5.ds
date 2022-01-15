@@ -1,0 +1,27 @@
+main(){
+    x,y:int;
+    a,b:char;
+    xr,yr:real;
+    t,f:bool;
+
+    xr=5.45;
+    yr=7.86;
+
+    x=6;
+    y=2;
+
+    a='a';
+    b='b';
+
+    t=TRUE;
+    f=FALSE;
+
+    read(y);
+    read(x);
+    read(yr);
+    read(xr);
+    read(a);
+    read(b);
+    read(t);
+    read(f);
+}

@@ -1,0 +1,7 @@
+main(){
+    y,x:char;
+    x=5;
+    y='b';
+    read(y);
+    read(x);
+}

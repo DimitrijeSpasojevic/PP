@@ -1,0 +1,16 @@
+main(){
+    x,y:int;
+    t,f:bool;
+
+    x=2*6;
+    y=3+67;
+
+    t=TRUE;
+    f=FALSE;
+
+    read(y);
+    read(x);
+
+    read(t);
+    read(f);
+}

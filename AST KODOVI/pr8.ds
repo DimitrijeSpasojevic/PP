@@ -1,0 +1,22 @@
+main(){
+    x,a,b:int;
+    x1,x2,x3:char;
+    y,y2:bool;
+    y=TRUE;
+    y2=FALSE;
+    --a=3;
+    b=4;--
+    x1='a';
+    x2='b';
+    x = a+b;
+    x = a-b;
+    x = a*b;
+    x = a/b;
+    x3 = x1 - x2;
+    do
+      do
+        write(x);
+      while (y2)
+    while (y)
+    read(x3);
+}

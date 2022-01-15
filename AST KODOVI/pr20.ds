@@ -1,0 +1,9 @@
+main(){
+    x,y:int;
+    my_y:bool;
+    x=123;
+    y=568;
+    my_y = x || y;
+    my_y = x && y;
+    read(my_y);
+}

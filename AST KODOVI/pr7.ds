@@ -1,0 +1,9 @@
+main(){
+    y,x:int;
+    x=5;
+    y=6;
+
+    do
+        read(x);
+    while y
+}

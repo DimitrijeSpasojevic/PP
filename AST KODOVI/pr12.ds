@@ -1,0 +1,10 @@
+main(){
+    var_1:bool;
+    c,x,y:char;
+    var_1 = TRUE;
+    x='a';
+    y='b';
+    c = x+y;
+    write(c);
+    read (var_1);
+}
